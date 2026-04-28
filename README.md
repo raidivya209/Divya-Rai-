@@ -34,7 +34,7 @@
 - Reduced testing time by 40%
 - SIEM-friendly logging
 
-### Web App Exploitation
+### Advanced Web App Exploitation
 [![](https://img.shields.io/badge/OWASP-Burp_Suite-orange?style=flat-square)](https://github.com/raidivya209/Web-Application-Security-Analysis)
 - SQL Injection & XSS found
 - 3x faster vulnerability detection
