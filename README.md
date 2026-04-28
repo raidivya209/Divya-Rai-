@@ -23,19 +23,22 @@
 
 ### Featured Projects
 ### Active Directory Pentesting
-[![](https://img.shields.io/badge/BloodHound-PowerShell-red?style=flat-square)](https://github.com/raidivya209/Active-Directory-Pentesting-Domain-Compromise)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![BloodHound](https://img.shields.io/badge/BloodHound-FF6B6B?style=flat-square&logo=github)
 - Found 8-12 misconfigurations
 - Reduced attack surface by 60%
 - Automated assessment process
 
 ### API Security Toolkit
-[![](https://img.shields.io/badge/Python-Burp_Suite-blue?style=flat-square)](https://github.com/raidivya209/API-Security-Toolkit)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Burp_Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square)
 - Identified 12 OWASP Top 10 vulnerabilities
 - Reduced testing time by 40%
 - SIEM-friendly logging
 
 ### Advanced Web App Exploitation
-[![](https://img.shields.io/badge/OWASP-Burp_Suite-orange?style=flat-square)](https://github.com/raidivya209/Web-Application-Security-Analysis)
+![OWASP](https://img.shields.io/badge/OWASP-Top_10-orange?style=flat-square)
+![Burp](https://img.shields.io/badge/Burp-Suite-FF6633?style=flat-square)
 - SQL Injection & XSS found
 - 3x faster vulnerability detection
 - Proof-of-concept automation
@@ -46,20 +49,20 @@
 **Security Tools**
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square)
 ![Nmap](https://img.shields.io/badge/Nmap-0078D4?style=flat-square)
-![BloodHound](https://img.shields.io/badge/BloodHound-FF6B6B?style=flat-square)
+![BloodHound](https://img.shields.io/badge/BloodHound-FF6B6B?style=flat-square&logo=github)
 ![Metasploit](https://img.shields.io/badge/Metasploit-330066?style=flat-square)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square)
 
 **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 **Platforms**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Active_Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **Achievement Badges**
 ![TryHackMe](https://img.shields.io/badge/TryHackMe_Legend-Level_13-1abc9c?style=for-the-badge&logo=tryhackme&logoColor=white)
