@@ -1,11 +1,10 @@
-# Divya Rai 
+## Divya Rai 
 
 > **I break systems to fix them.** Penetration testing & security analysis specialist.
 > **Hunting vulnerabilities. Securing infrastructure. Learning constantly.**
 ---
 
 ### Credentials
-
 ![CEH](https://img.shields.io/badge/CEH-EC--Council-red?style=for-the-badge&logo=security)
 ![CCNA](https://img.shields.io/badge/CCNA-Cisco-blue?style=for-the-badge&logo=cisco)
 ![CCNP](https://img.shields.io/badge/CCNP-Cisco-darkblue?style=for-the-badge&logo=cisco)
@@ -17,7 +16,17 @@
 - **Penetration Testing** — Test systems like real attackers (with permission)
 - **Security Analysis** — Threat modeling and impact assessment
 - **Automation** — Build tools to scale security assessments
-**Currently hunting:** Entry-level Security Analyst / Systems Engineer / Network Security roles
+**Currently hunting:** Entry-level Security Analyst / IT Support / Desktop Support / System Engineer / Network Security roles
+
+---
+
+**Education:**
+- **B.E. Computer Engineering** — University of Mumbai (Jan 2022 – Jun 2025)
+- Coursework: Network Security, Operating Systems, Cryptography, Database Management, Cloud Computing
+
+**Internships:**
+- **NullClass Security Analyst Trainee** (Aug 2025 – Oct 2025) — Identified 8-12 AD/Linux misconfigurations, implemented CIS hardening
+- **EduSkills Security Analyst Trainee** (Jan 2025 – Mar 2025) — Assessed Docker/Kubernetes security, analyzed firewall configurations
 
 ---
 
@@ -25,24 +34,27 @@
 ### Active Directory Pentesting
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![BloodHound](https://img.shields.io/badge/BloodHound-FF6B6B?style=flat-square&logo=github)
-- Found 8-12 misconfigurations
-- Reduced attack surface by 60%
-- Automated assessment process
-
+- Discovered multiple privilege escalation routes and found 8-12 misconfigurations
+- Reduced simulated attack surface by ~60%
+- Automation cut assessment time by ~50% and made the process repeatable
+**See the code:** [github.com/raidivya209/Active-Directory-Pentesting-Domain-Compromise](https://github.com/raidivya209/Active-Directory-Pentesting-Domain-Compromise)
+  
 ### API Security Toolkit
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Burp_Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square)
-- Identified 12 OWASP Top 10 vulnerabilities
-- Reduced testing time by 40%
-- SIEM-friendly logging
-
+- Identified 12+ OWASP Top 10 vulnerabilities with proof-of-concept steps and CVSS scores
+- Reduced manual testing effort by 40%
+- Enabled continuous testing during development cycles
+**See the code:** [github.com/raidivya209/API-Security-Toolkit](https://github.com/raidivya209/API-Security-Toolkit)
+  
 ### Advanced Web App Exploitation
 ![OWASP](https://img.shields.io/badge/OWASP-Top_10-orange?style=flat-square)
 ![Burp](https://img.shields.io/badge/Burp-Suite-FF6633?style=flat-square)
-- SQL Injection & XSS found
-- 3x faster vulnerability detection
-- Proof-of-concept automation
-
+- Found SQL Injection, Reflected XSS, authentication bypass vulnerabilities
+- Created detailed remediation guidance
+- 3x faster vulnerability detection 
+**See the code:** [github.com/raidivya209/Web-Application-Security-Analysis](https://github.com/raidivya209/Web-Application-Security-Analysis)
+  
 ---
 
 ### My Toolkit
@@ -90,7 +102,6 @@
 ---
 
 ### Currently Working On
-
 - 🔴 Advanced Active Directory attack chains & defenses
 - 🔵 Kubernetes security hardening
 - 🟢 Red team techniques (MITRE ATT&CK coverage)
@@ -104,7 +115,7 @@
 
 | Platform | Link |
 |----------|------|
-| 📧 Email | rai.divya209@gmail.com |
-| 💼 LinkedIn | [linkedin.com/in/divya-rai-6a7059309](https://linkedin.com/in/divya-rai-6a7059309) |
-| 🎮 TryHackMe | CyberVigilant |
-| 🎯 HackTheBox | CyberVigilant |
+| Email | rai.divya209@gmail.com |
+| LinkedIn | [linkedin.com/in/divya-rai-6a7059309](https://linkedin.com/in/divya-rai-6a7059309) |
+| TryHackMe | CyberVigilant |
+| HackTheBox | CyberVigilant |
