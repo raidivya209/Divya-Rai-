@@ -1,1 +1,107 @@
-# Divya-Rai-
+# Divya Rai 
+
+> **I break systems to fix them.** Penetration testing & security analysis specialist.
+> **Hunting vulnerabilities. Securing infrastructure. Learning constantly.**
+---
+
+### Credentials
+
+![CEH](https://img.shields.io/badge/CEH-EC--Council-red?style=for-the-badge&logo=security)
+![CCNA](https://img.shields.io/badge/CCNA-Cisco-blue?style=for-the-badge&logo=cisco)
+![CCNP](https://img.shields.io/badge/CCNP-Cisco-darkblue?style=for-the-badge&logo=cisco)
+
+---
+
+### What I Do
+- **Vulnerability Assessment** — Find security gaps before they become problems
+- **Penetration Testing** — Test systems like real attackers (with permission)
+- **Security Analysis** — Threat modeling and impact assessment
+- **Automation** — Build tools to scale security assessments
+**Currently hunting:** Entry-level Security Analyst / Systems Engineer / Network Security roles
+
+---
+
+### Featured Projects
+### Active Directory Pentesting
+[![](https://img.shields.io/badge/BloodHound-PowerShell-red?style=flat-square)](https://github.com/raidivya209/Active-Directory-Pentesting-Domain-Compromise)
+- Found 8-12 misconfigurations
+- Reduced attack surface by 60%
+- Automated assessment process
+
+### API Security Toolkit
+[![](https://img.shields.io/badge/Python-Burp_Suite-blue?style=flat-square)](https://github.com/raidivya209/API-Security-Toolkit)
+- Identified 12 OWASP Top 10 vulnerabilities
+- Reduced testing time by 40%
+- SIEM-friendly logging
+
+### Web App Exploitation
+[![](https://img.shields.io/badge/OWASP-Burp_Suite-orange?style=flat-square)](https://github.com/raidivya209/Web-Application-Security-Analysis)
+- SQL Injection & XSS found
+- 3x faster vulnerability detection
+- Proof-of-concept automation
+
+---
+
+### My Toolkit
+**Security Tools**
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square)
+![Nmap](https://img.shields.io/badge/Nmap-0078D4?style=flat-square)
+![BloodHound](https://img.shields.io/badge/BloodHound-FF6B6B?style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-330066?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square)
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square)
+
+**Platforms**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square)
+![Active_Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)
+
+**Achievement Badges**
+![TryHackMe](https://img.shields.io/badge/TryHackMe_Legend-Level_13-1abc9c?style=for-the-badge&logo=tryhackme&logoColor=white)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-Active-green?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Bug Bounty](https://img.shields.io/badge/Bugcrowd-P5_Researcher-orange?style=for-the-badge)
+
+---
+### Certifications & Achievements
+
+| Certification | Date | Status |
+|---|---|---|
+| CEH (Certified Ethical Hacker) | Nov 2025 | ✅ Certified |
+| CCNA Routing & Switching | Jun 2025 | ✅ Completed |
+| CCNP Security (SCOR) | Aug 2025 | ✅ Completed |
+| TryHackMe Legend | Present | ✅ Level 13 |
+| HackTheBox | Present | ✅ Active |
+| Bug Bounty Researcher | Present | ✅ P5 on Bugcrowd |
+
+**By The Numbers**
+- 50+ TryHackMe Rooms Completed
+- CEH Certified
+- 12 Vulnerabilities Found & Reported
+- 1+ Year hands-on Security Experience
+
+---
+
+### Currently Working On
+
+- 🔴 Advanced Active Directory attack chains & defenses
+- 🔵 Kubernetes security hardening
+- 🟢 Red team techniques (MITRE ATT&CK coverage)
+- 🟡 SOC playbook development
+
+---
+**GitHub Stats Card**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raidivya209&show_icons=true&theme=dark)
+
+## Let's Connect
+
+| Platform | Link |
+|----------|------|
+| 📧 Email | rai.divya209@gmail.com |
+| 💼 LinkedIn | [linkedin.com/in/divya-rai-6a7059309](https://linkedin.com/in/divya-rai-6a7059309) |
+| 🎮 TryHackMe | CyberVigilant |
+| 🎯 HackTheBox | CyberVigilant |
